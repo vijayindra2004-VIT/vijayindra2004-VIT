@@ -1,58 +1,74 @@
-# Hi there, I'm Vijay Indra Tejas! 
-> *"The best way to predict the future is to invent it."*
+# Hi there, I'm Vijay Indra Tejas 👋
 
-🚀 **Final Year IT Student | Aspiring Software Engineer | AI-Driven Developer**
+> *"Code. Learn. Build. Repeat."*
 
-I am a passionate final-year IT student who enjoys building **efficient, real-world software solutions**.  
-I actively explore **AI-assisted development**, cloud technologies, and problem-solving through clean, scalable code.
+🎓 **B.E. Computer Science Engineering (VTU)** | 💻 Aspiring Software Engineer | 🐍 Python & Java Developer
+
+I'm a Computer Science Engineering graduate passionate about building practical software solutions. I enjoy backend development, problem solving, and exploring AI-driven applications while continuously improving my programming skills.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Final Year **Information Technology** student  
-- 💡 Interested in **Software Development, AI, and Cloud Computing**  
-- 🔍 Love solving problems using **data structures & algorithms**  
-- 🌱 Currently learning **advanced backend systems & AI/ML**  
-- 🤝 Open to **internships, open-source contributions, and collaborations**
+## 👨‍💻 About Me
+
+- 🎓 B.E. in Computer Science Engineering (VTU)
+- 💼 Completed **Java Full Stack Internship** at Ethnotech Academic Solutions
+- 🐍 Currently strengthening **Python** for software development
+- ☁️ Interested in Backend Development, AI & Cloud Technologies
+- 🧩 Passionate about Data Structures, OOP & REST APIs
+- 🌱 Open to Software Engineer, Python and Application Support roles
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,mongodb,html,css,tailwind,git,github,vscode,python,java,aws" />
-</p>
 
-**Also familiar with:**  
-`Git` • `Linux` • `REST APIs` • `OOP` • `Basic DevOps Concepts`
+### Languages
+`Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript`
 
----
+### Frameworks & Tools
+`Git` • `GitHub` • `VS Code` • `MySQL` • `JDBC` • `Java Swing`
 
-## 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guruvardhan-tech-village&theme=dark)](https://github.com/guruvardhan-tech-village)
-
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guruvardhan-tech-village&layout=compact&theme=dark)](https://github.com/guruvardhan-tech-village)
+### Currently Learning
+`Advanced Python` • `Backend Development` • `AWS` • `REST APIs`
 
 ---
 
-## 🚀 Featured Project
-### 🐍 AI-Powered Retro Snake Game
-🔹 Intelligent path-finding logic  
-🔹 Optimized decision-making using AI concepts  
-🔹 Clean and modular code structure  
+## 📌 Featured Projects
 
-👉 **GitHub Repo:**  
-🔗 https://github.com/vijayindra2004-VIT
-⭐ *If you like it, don’t forget to star the repo!*
+### ✅ Python To-Do List App
+A command-line task manager built using Python with file handling for persistent storage.
 
----
+**Skills:** Python · File Handling · OOP · CLI
 
-## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-indra-tejas-281365341))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayindra2004@gmail.com)
+### 🤖 AI-Powered Retro Snake Game
+A classic Snake game enhanced with intelligent path-finding and modular AI logic.
 
-📢 **Currently looking for internship opportunities & open-source collaborations!**
+**Skills:** Python · Algorithms · Game Logic
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijayindra2004-VIT&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayindra2004-VIT&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- Mastering Python & Backend Development
+- Building real-world portfolio projects
+- Improving DSA and problem-solving
+- Contributing to open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** www.linkedin.com/in/vijay-indra-tejas-281365341
+- 📧 **Email:** vijayindra2004@gmail.com
+- 🌐 **GitHub:** github.com/vijayindra2004-VIT
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
